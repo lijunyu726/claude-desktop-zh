@@ -1,4 +1,4 @@
-# Claude Desktop 中文汉化
+# Claude Desktop 汉化
 
 为 Claude 桌面版 (macOS) 提供完整的简体中文汉化支持。
 
