@@ -23,7 +23,7 @@
 1. **克隆本仓库到你的电脑**
 
 ```bash
-git clone https://github.com/lijunyu726/claude-desktop-zh-localization.git ~/claude-desktop-zh
+git clone https://github.com/lijunyu726/ClaudeDesktop-SimplifiedChinese.git ~/claude-zh
 ```
 
 2. **让 Claude Code 读取技术文档并执行汉化**
